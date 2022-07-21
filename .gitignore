@@ -2,3 +2,4 @@ rs_lib/target
 rs_lib/Cargo.lock
 build/
 .idea/
+src/generated

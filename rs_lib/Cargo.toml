@@ -5,8 +5,8 @@ edition = "2018"
 
 [dependencies]
 heapless = "0.7.10"
-rart-rs = { version = "0.0.4", features = ["alloc_rtos"] }
-rart-macros = { version = "0.0.2" }
+rart-rs = { version = "0.0.6", features = ["alloc_rtos"] }
+rart-macros = { version = "0.0.3" }
 panic-halt = "0.2.0"
 
 [lib]
